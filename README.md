@@ -16,11 +16,10 @@
 </p>
 
 - 🔭 I’m currently working in **some personal projects** 
-- 🌱 I’m currently learning **JavaScript** 
+- 🌱 I’m currently learning **Clean-Archtecture & TDD** 
 - 👯 I’m looking to collaborate on **everything i can**
-- 🤝 I’m looking for help with **building a reliable web application**
 - 👨 All of my projects are available at [https://github.com/DreaMagici4n?tab=repositories](https://github.com/DreaMagici4n?tab=repositories)
-- 💬 Ask me about **Java, JavaScript, Linux and Docker** 
+- 💬 Ask me about **Java, JavaScript, Linux and Docker**
 - 📫 How to reach me **lucasdacostamiranda812@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
